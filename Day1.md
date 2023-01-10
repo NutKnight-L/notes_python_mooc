@@ -248,7 +248,6 @@
   	
   	
   
-
 - 评估函数`eval()`
 
   - 去除参数最外侧引号并执行余下语句的函数
@@ -266,4 +265,3 @@
 
 [^1]:[python 的缩进这么简单，一分钟让你学会 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/391795486)
 [^2]:[Python注释（多行注释和单行注释）用法详解 (biancheng.net)](http://c.biancheng.net/view/2170.html)
-
