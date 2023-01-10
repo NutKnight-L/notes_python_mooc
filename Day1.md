@@ -59,7 +59,7 @@
     print(isTrue) 
     ```
 
-    ![image-20230110121051551](C:\Users\paradox\AppData\Roaming\Typora\typora-user-images\image-20230110121051551.png)
+    ![image-20230110181156031](./Day1.assets/image-20230110181156031.png)
 
 - 整数和浮点数
 
@@ -223,7 +223,7 @@
      print("保留2位小数后pi={:.2f}".format(pi))
      ```
 
-     ![image-20230110142154398](C:\Users\paradox\AppData\Roaming\Typora\typora-user-images\image-20230110142154398.png)
+     ![image-20230110181307177](./Day1.assets/image-20230110181307177.png)
 
   3. 逗号输出，一条print语句可以同时输出多个数据，中间以逗号隔开，数据之间会被填充空格（默认）
 
@@ -231,7 +231,7 @@
      print("Hello", 123, "World!")
      ```
 
-     ![image-20230110172034692](C:\Users\paradox\AppData\Roaming\Typora\typora-user-images\image-20230110172034692.png)
+     ![image-20230110181345699](./Day1.assets/image-20230110181345699.png)
 
   
 
@@ -244,7 +244,7 @@
   	print(name)
   	```
 
-  	![image-20230110142518591](C:\Users\paradox\AppData\Roaming\Typora\typora-user-images\image-20230110142518591.png)
+  	![image-20230110181538931](./Day1.assets/image-20230110181538931.png)
   	
   	
   

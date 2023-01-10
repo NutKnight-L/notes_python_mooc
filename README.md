@@ -8,6 +8,6 @@
 
 markdown记录：[Typora 官方中文站 (typoraio.cn)](https://typoraio.cn/)
 
-typora测试版下载：[Typora — macOS release channel (typoraio.cn)](https://typoraio.cn/releases/all)![image-20230110182338412](E:\Python\notes_python_mooc\assets\image-20230110182338412.png)
+typora测试版下载：[Typora — macOS release channel (typoraio.cn)](https://typoraio.cn/releases/all)<img src="./README.assets/image-20230110182338412.png" alt="image-20230110182338412" style="zoom:67%;" />
 
 > 貌似正式版只能试用15天，测试版好像不收费而且用起来感觉卡卡的

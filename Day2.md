@@ -51,7 +51,7 @@
 
   - 起始位置在画布正中间`(0,0)`，向右为x轴正向，向上为y轴正向
 
-    ![image-20230110155033372](C:\Users\paradox\AppData\Roaming\Typora\typora-user-images\image-20230110155033372.png)
+    <img src="./Day2.assets/image-20230110181559518.png" alt="image-20230110181559518" style="zoom:67%;" />
 
   - 海龟的行进方向：前进和后退，左侧或右侧
 
@@ -59,7 +59,7 @@
 
   - 
 
-    ![image-20230110160005830](C:\Users\paradox\AppData\Roaming\Typora\typora-user-images\image-20230110160005830.png)
+    <img src="./Day2.assets/image-20230110181609793.png" alt="image-20230110181609793" style="zoom:67%;" />
 
 - 函数使用
 
@@ -137,14 +137,14 @@
    t.circle(100) # 绘制半径为100，角度为360的弧线
    ```
 
-   ![image-20230110165350035](C:\Users\paradox\AppData\Roaming\Typora\typora-user-images\image-20230110165350035.png)
+   <img src="./Day2.assets/image-20230110181621407.png" alt="image-20230110181621407" style="zoom:67%;" />
 
    ```py
    import turtle as t
    t.circle(-100, 90) # 在下方绘制一个半径100角度90的弧
    ```
 
-   ![image-20230110165734962](C:\Users\paradox\AppData\Roaming\Typora\typora-user-images\image-20230110165734962.png)
+   <img src="./Day2.assets/image-20230110181630378.png" alt="image-20230110181630378" style="zoom:67%;" />
 
 ### 海龟方向控制函数
 
